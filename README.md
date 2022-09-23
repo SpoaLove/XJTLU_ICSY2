@@ -5,7 +5,7 @@
  ### Semester 1
  - CPT 101 Computer Architecture
  - CPT 103 Database System Concepts
- - CPT 105 Java Programming
+ - CPT 105 Java Programming (the same as CPT111 in 22/23)
  - CPT 107 Discrete Mathematics
  ### Semester 2
  - CPT 102 Datastructures
